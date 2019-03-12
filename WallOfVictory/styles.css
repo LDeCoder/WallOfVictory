@@ -1,0 +1,102 @@
+
+
+body {
+    font-family: 'Loved by the King', cursive;
+    background: rgb(53, 1, 1);
+    /* background: url("Images/BrickWallOverlay.png") no-repeat center center/cover; */
+   /* width: 50%; */
+   height: 90vh;
+    color: whitesmoke;
+    overflow: hidden;
+    margin-top: 0;
+}
+
+.backgroundImg {
+    margin-top: 0;
+    background: url("Images/BrickWallOverlay.png") no-repeat center center/cover;
+    height: 100%;
+    width: auto;
+    z-index:-1;
+}
+
+/* logo
+.myLogo {
+    margin-left: 85%;
+    margin-top: 0;
+    z-index: -2;
+} */
+
+.bricks{
+    font-size: 2em;
+    z-index: 4;
+}
+
+/* Wall of Victory */
+.bricks1 {
+    margin-top: 1%;
+    font-size: 2em;
+    display: flex;
+    margin-left: 35%;
+}
+/* Trust Courage Peace */
+.bricks2  {
+    text-align-last: justify;
+    margin-top: 2%;
+    margin-right: 5%;
+    margin-left: 8%;
+}
+/* Wealth Strength Joy */
+.bricks3 {
+    text-align-last: justify;
+    margin-top: 5%;
+    margin-right: 5%;
+    margin-left: 4%;
+}
+
+/* Love Kindness Your_testimony_here... */
+.bricks4 {
+    text-align-last: justify;
+    margin-top: 6%;
+    margin-left: 5%;
+    margin-right: 3%;
+}
+
+/* Forgiveness Patience Self-control */
+.bricks5 {
+    text-align-last: justify;
+    margin-top: 6%;
+    margin-right: 15%;
+    margin-left: 3%;
+}
+
+/* We overcome by the word of our testimony */
+.bricks6 {
+    text-align-last: justify;
+    margin-top: 1%;
+    margin-right: 5%;
+    margin-left: 5%;
+    font-size: 2em;
+    font-family: 'Loved by the King', cursive;
+}
+
+
+/* body {
+    background: maroon;
+    background-image: url("Images/BrickWallOverlay.png");
+    display: flex;
+}
+
+h1 {
+    color: white;
+    display: flex-end;
+    font-family: fantasy;
+    font-size: xx-large;
+}
+
+
+.bricks {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    z-index: 1;
+} */
